@@ -41,7 +41,7 @@ myntra-clone/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/myntra-clone.git
+git clone https://github.com/hammad-dc/myntra-clone.git
 cd myntra-clone
 ```
 
