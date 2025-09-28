@@ -94,6 +94,14 @@ npm run dev
 
 ---
 
+## Screenshots
+
+### Dashboard
+[Dashboard]: (./screenshots/dashboard.png)
+
+### Shopping Bag (with Summary)
+![Shopping Bag](./screenshots/bag.png)
+
 ## Future improvements
 
 - Build a full backend with database (MongoDB/Postgres)
