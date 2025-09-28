@@ -97,7 +97,7 @@ npm run dev
 ## Screenshots
 
 ### Dashboard
-[Dashboard]: (./screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard.png)
 
 ### Shopping Bag (with Summary)
 ![Shopping Bag](./screenshots/bag.png)
